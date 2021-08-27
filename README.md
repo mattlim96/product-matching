@@ -3,7 +3,7 @@
 ## About The Project
 
 ### Context
-Given that you are running an e-commerce platform, countering initiatives at a product level against a compeitor would involve identifying and mapping the competitor's catalog of products against your own internal catalog. This project aims to automate the latter part - mapping stage - however automating this mapping process with 100% accuracy is impossible, therefore the primary goal is to decrease the no. of hours for manual mapping by increasing the accuracy and speed of automated mapping as much as possible.
+Given that you are running an e-commerce platform, countering initiatives at a product level against a compeitor would involve identifying and mapping the competitor's catalog of products against your own internal catalog before price comparisons are possible. This project aims to automate the latter part - mapping stage - however automating this mapping process with 100% accuracy is impossible, therefore the primary goal is to decrease the no. of hours for manual mapping by increasing the accuracy and speed of automated mapping as much as possible.
 
 Utilized FuzzyWuzzy matching logic to map products between Shopee and Lazada for countering initiatives.
 
