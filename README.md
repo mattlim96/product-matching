@@ -10,7 +10,7 @@ Utilized FuzzyWuzzy matching logic to map products between Shopee and Lazada for
 ### Achievement
 Successfully applied Token Sort and Token Set methods from FuzzyWuzzy python package for mapping product names and descriptions. Each product will have a total score of 400.
 
-![product_matching_total_score](https://user-images.githubusercontent.com/24253921/131311805-6562c08a-e130-4c0b-b573-0158302651b7.jpg)
+![product_matching_total_score](https://user-images.githubusercontent.com/24253921/131312205-81bcd547-a2f6-4173-a44a-febf9dd89847.jpg)
 
 New FuzzyWuzzy logic increased accuracy by 16% by applying both Token Sort and Token Set methods from FuzzyWuzzy python package, and matched both product name and product description variables.
 
