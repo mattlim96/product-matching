@@ -8,6 +8,10 @@ Given that you are running an e-commerce platform, countering initiatives at a p
 Utilized FuzzyWuzzy matching logic to map products between Shopee and Lazada for countering initiatives.
 
 ### Achievement
-Optimized the accuracy of existing FuzzyWuzzy matching logic by applying both Token Sort and Token Set methods from FuzzyWuzzy python package, and matched both product name and product description variables.
+Successfully applied Token Sort and Token Set methods from FuzzyWuzzy python package for mapping product names and descriptions. Each product will have a total score of 400.
+
+![product_matching_total_score](https://user-images.githubusercontent.com/24253921/131311805-6562c08a-e130-4c0b-b573-0158302651b7.jpg)
+
+New FuzzyWuzzy logic increased accuracy by 16% by applying both Token Sort and Token Set methods from FuzzyWuzzy python package, and matched both product name and product description variables.
 
 ## Steps to Reproduce
